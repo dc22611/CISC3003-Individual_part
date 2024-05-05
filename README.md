@@ -1,15 +1,15 @@
 # CISC3003-Individual_part
 This individual project create a shopping cart and check out system<br>
-E.	How to install
-1.
-Download the code file from https://github.com/dc22611/CISC3003-Individual_part
-2.
-Unzip all the file to xampp/htdocs/ file
-3.
-Open your sql server and create new database named “shop_db”
-4.
-Import the shop_db.sql file into your server
-5.
+E.	How to install<br>
+1.<br>
+Download the code file from https://github.com/dc22611/CISC3003-Individual_part<br>
+2.<br>
+Unzip all the file to xampp/htdocs/ file<br>
+3.<br>
+Open your sql server and create new database named “shop_db”<br>
+4.<br>
+Import the shop_db.sql file into your server<br>
+5.<br>
 Installation Finished!
 <br>
 Add product page--
